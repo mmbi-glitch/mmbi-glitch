@@ -18,7 +18,7 @@ I’m a 2nd-year student at Massey University (Palmerston North, New Zealand). I
 <br/>  
 
 
-## Rapidfire  
+## Quick Notes  
 <table><tr><td valign="top" width="50%">
 
 - 📝 I’m currently working on... my uni courses.   
