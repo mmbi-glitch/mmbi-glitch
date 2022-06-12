@@ -12,7 +12,7 @@
 
 
 ### Welcome to my Github page!  
-I’m a 2nd-year student at Massey University (Palmerston North, New Zealand). I'm studying towards a Bachelor's degree in Computer Science. I've already gained quite a bit of proficiency in C++, HTML5, CSS3, and Java. Hoping to widen my skills in the future! Again, thanks for looking in.  
+I’m a 2nd-year university student at [Massey University](https://www.massey.ac.nz/) (Palmerston North, New Zealand). I'm studying towards a Bachelor's degree in Computer Science. I've already gained quite a bit of proficiency in C++, HTML5, CSS3, and Java. Hoping to widen my skills in the future! Again, thanks for looking in.  
   
 
 <br/>  
@@ -25,9 +25,11 @@ I’m a 2nd-year student at Massey University (Palmerston North, New Zealand). I
   
 - 🌱 I’m currently learning object oriented programming, games programming (Java), as well as data structures and algorithms (C++).  
   
+- 📬 Contact me on mmbillah02@gmail.com, [LinkedIn](www.linkedin.com/in/mohammad-billah-949156200), or [Discord](discordapp.com/users/mmblah2022#3782).
+    
 - ⚡ Fun fact: I love owls = cat software running on bird hardware!
   
-<img src="https://github.com/mmbi-glitch/mmbi-glitch/blob/main/owl.gif" style="margin: 5px auto 5px auto;" />
+<img src="https://github.com/mmbi-glitch/mmbi-glitch/blob/main/owl.gif" style="width=100%" />
   
 
 
