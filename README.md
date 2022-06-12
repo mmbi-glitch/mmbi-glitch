@@ -27,8 +27,7 @@ I’m a 2nd-year student at Massey University (Palmerston North, New Zealand). I
   
 - ⚡ Fun fact: I love owls = cat software running on bird hardware!
   
-  
-<img src="https://github.com/mmbi-glitch/mmbi-glitch/blob/main/owl.gif" style="width: 100%; margin-left: auto; margin-right: auto;" />
+<img src="https://github.com/mmbi-glitch/mmbi-glitch/blob/main/owl.gif" style="align: center" />
   
 
 
