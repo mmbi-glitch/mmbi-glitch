@@ -23,13 +23,12 @@ I’m a 2nd-year student at Massey University (Palmerston North, New Zealand). I
 
 - 📝 I’m currently working on... my uni courses.   
   
-
 - 🌱 I’m currently learning object oriented programming, games programming (Java), as well as data structures and algorithms (C++).  
   
-
+- ⚡ Fun fact: I love owls = cat software running on bird hardware!
   
   
-
+<img src="https://github.com/mmbi-glitch/mmbi-glitch/blob/main/owl.gif" align="left" style="width: 100%" />
   
 
 
