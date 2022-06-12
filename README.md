@@ -83,4 +83,3 @@ I’m a 2nd-year student at Massey University (Palmerston North, New Zealand). I
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
