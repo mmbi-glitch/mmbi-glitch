@@ -35,9 +35,10 @@ I’m a 2nd-year university student at [Massey University](https://www.massey.ac
 
 <br/>  
 
-<p align="center" width="100%">
-    <img width="50%" src="https://github.com/mmbi-glitch/mmbi-glitch/blob/main/owl.gif">
-</p>
+<figure align="center" width="100%">
+    <img width="30%" src="https://github.com/mmbi-glitch/mmbi-glitch/blob/main/owl.gif">
+    <figcaption>Don't leave just yet!</figcaption>
+</figure>
 
 ## Languages and Tools  
 <div align="center">  
