@@ -35,7 +35,7 @@ I’m a 2nd-year university student at [Massey University](https://www.massey.ac
 
 <br/>  
 
-<p align="center" width="100%">
+<p align="center" text-align="center" width="100%">
     <img width="30%" src="https://github.com/mmbi-glitch/mmbi-glitch/blob/main/owl.gif">
     <figcaption>Don't leave just yet! Check out my skills, stats, and repos below. </figcaption>
 </p>
