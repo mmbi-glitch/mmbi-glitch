@@ -12,7 +12,7 @@
 
 
 ### Welcome to my Github page!  
-I’m a 2nd-year university student at [Massey University](https://www.massey.ac.nz/) (Palmerston North, New Zealand). I'm currently studying towards a Bachelor's degree in Computer Science. I've already gained quite a bit of proficiency in C++, HTML5, CSS3, and Java. Hoping to widen my skills in the future! Again, thanks for looking in.  
+I’m a 2nd-year university student at [Massey University](https://www.massey.ac.nz/) (Palmerston North, New Zealand). I'm currently studying towards a Bachelor's degree in Computer Science. I've already gained quite a bit of proficiency in C++, JavaHTML5, CSS3, and . Hoping to widen my skills in the future! Again, thanks for looking in.  
   
 
 <br/>  
@@ -36,10 +36,8 @@ I’m a 2nd-year university student at [Massey University](https://www.massey.ac
 <br/>  
 
 <p align="center" width="100%">
-<figure text-align="center" width="100%">
     <img width="30%" src="https://github.com/mmbi-glitch/mmbi-glitch/blob/main/owl.gif">
-    <figcaption>Don't leave just yet!</figcaption>
-</figure>
+    <figcaption>Don't leave just yet! Check out my skills, stats, and repos below. </figcaption>
 </p>
 
 ## Languages and Tools  
