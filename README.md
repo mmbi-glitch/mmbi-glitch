@@ -18,29 +18,24 @@ I’m a 2nd-year university student at [Massey University](https://www.massey.ac
 <br/>  
 
 
-## Quick Notes  
+## RapidFire Notes  
 <table><tr><td valign="top" width="50%">
 
-- 📝 I’m currently working on... my uni courses.   
+- 📝 I’m currently working on... my university courses.   
   
 - 🌱 I’m currently learning object oriented programming, games programming (Java), as well as data structures and algorithms (C++).  
   
-- 📬 Contact me on mmbillah02@gmail.com, [LinkedIn](www.linkedin.com/in/mohammad-billah-949156200), or [Discord](discordapp.com/users/mmblah2022#3782).
+- 📬 Contact me via email (mmbillah02[at]gmail[dot]com - no spam please!) or social media (links above).
     
-- ⚡ Fun fact: I love owls = cat software running on bird hardware!
+- ⚡ Fun fact: My favorite animal = OWLS! They are amazing! I like to think of them as cat software running on bird hardware 😁.
   
-<img src="https://github.com/mmbi-glitch/mmbi-glitch/blob/main/owl.gif" style="width=100%" />
-  
-
-
 </td><td valign="top" width="50%">
-
-
 
 </td></tr></table>  
 
 <br/>  
 
+<img src="https://github.com/mmbi-glitch/mmbi-glitch/blob/main/owl.gif" style="width=100%; margin-left:auto; margin-right: auto;" />
 
 ## Languages and Tools  
 <div align="center">  
