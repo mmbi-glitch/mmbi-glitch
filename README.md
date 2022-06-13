@@ -35,6 +35,9 @@ I’m a 2nd-year university student at [Massey University](https://www.massey.ac
 
 <br/>  
 
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/mmbi-glitch/mmbi-glitch/blob/main/owl.gif"> 
+</p>
 <img src="https://github.com/mmbi-glitch/mmbi-glitch/blob/main/owl.gif" style="width=100%; margin-left:auto; margin-right: auto;" />
 
 ## Languages and Tools  
