@@ -52,7 +52,7 @@ I’m a 2nd-year university student at [Massey University](https://www.massey.ac
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="30" />  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" />  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="30" />
-<img style="margin: 30px" src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" alt="Espressif" height="25" />
+<img style="margin: 30px" src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png" alt="Espressif" height="30" />
 <img style="margin: 30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="30" />
 </div>  
 
