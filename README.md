@@ -43,17 +43,18 @@ I’m a 2nd-year university student at [Massey University](https://www.massey.ac
 
 ## Languages and Tools  
 <div align="center">  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" />
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="30" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="30" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="30" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="30" />
+<img style="margin: 30px" src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" alt="Espressif" height="30" />
+<img style="margin: 30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="30" />
+<img style="margin: 30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="30" />
 </div>  
 
 <br/>  
@@ -62,11 +63,11 @@ I’m a 2nd-year university student at [Massey University](https://www.massey.ac
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mmbi-glitch&show_icons=true&count_private=true&include_all_commits&hide_border=true&theme=radical" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mmbi-glitch&show_icons=true&count_private=true&include_all_commits&hide_border=true&theme=synthwave" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmbi-glitch&hide_border=true&layout=compact&theme=radical" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmbi-glitch&hide_border=true&layout=compact&theme=synthwave" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
