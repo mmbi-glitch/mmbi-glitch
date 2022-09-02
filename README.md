@@ -18,8 +18,8 @@ I’m a 2nd-year university student at [Massey University](https://www.massey.ac
 <br/>  
 
 
-## RapidFire Notes  
-<table><tr><td valign="top" width="50%">
+## 📒 Personal Notes  
+<table style="border:none"><tr><td valign="top" width="50%">
 
 - 📝 I’m currently working on... my university courses.   
   
@@ -41,7 +41,7 @@ I’m a 2nd-year university student at [Massey University](https://www.massey.ac
     Don't leave just yet! Check out my skills, stats, and repos below.
 </p>
 
-## Languages and Tools  
+## ⚙️ Languages and Tools  
 <div align="center">  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" />  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" />  
@@ -59,7 +59,7 @@ I’m a 2nd-year university student at [Massey University](https://www.massey.ac
 <br/>  
 
 
-## Github Stats  
+## 📊 Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mmbi-glitch&show_icons=true&count_private=true&include_all_commits&hide_border=true&theme=synthwave" align="left" style="width: 100%" />
