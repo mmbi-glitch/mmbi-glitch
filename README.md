@@ -12,7 +12,7 @@
 
 
 ### Welcome to my Github page!  
-I’m a 2nd-year university student at [Massey University](https://www.massey.ac.nz/) (Palmerston North, New Zealand). I'm currently studying towards a Bachelor's degree in Computer Science. I've already gained quite a bit of proficiency in C++, Java, HTML5, CSS3, and JavaScript. Hoping to widen my skills in the future! Thanks for looking in.  
+I’m a 3rd-year university student at [Massey University](https://www.massey.ac.nz/) (Palmerston North, New Zealand). I'm currently studying towards a Bachelor's degree in Computer Science. I've already gained quite a bit of proficiency in C++, Java, HTML5, CSS3, and JavaScript. Hoping to widen my skills in the future! Thanks for looking in.  
   
 
 <br/>  
