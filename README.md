@@ -23,7 +23,7 @@ I’m a 3rd-year university student at [Massey University](https://www.massey.ac
 
 - 📝 I’m currently working on... my university courses.   
   
-- 🌱 I’m currently learning function programming and programming paradigms (Haskell + Rust), software construction and design (Java), and embedded programming (C).  
+- 🌱 I’m currently learning Artificial Intelligence (C++), Mobile App Development (Java/Kotlin), and Games Programming (C#).  
   
 - 📬 Contact me via email (mmbillah02[at]gmail[dot]com - no spam please!) or social media (links above).
     
