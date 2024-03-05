@@ -12,7 +12,7 @@
 
 
 ### Welcome to my Github page!  
-I’m a 3rd-year university student at [Massey University](https://www.massey.ac.nz/) (Palmerston North, New Zealand). I'm currently studying towards a Bachelor's degree in Computer Science. I've already gained quite a bit of proficiency in C++, Java, HTML5, CSS3, and JavaScript. Hoping to widen my skills in the future! Thanks for looking in.  
+I’m a computer science graduate from [Massey University](https://www.massey.ac.nz/) (Palmerston North, New Zealand).  
   
 
 <br/>  
@@ -21,13 +21,13 @@ I’m a 3rd-year university student at [Massey University](https://www.massey.ac
 ## 📒 Personal Notes  
 <table style="border:none"><tr><td valign="top" width="50%">
 
-- 📝 I’m currently working on... my university courses.   
+- 📝 I’m currently training for professional cybersecurity and other certifications.   
   
-- 🌱 I’m currently learning Artificial Intelligence (C++), Mobile App Development (Java/Kotlin), and Games Programming (C#).  
+- 🌱 I’m currently learning Cyber Security (Python/Bash/CybSecTools), Cloud Computing (Azure, AWS), and Games Programming (C#).  
   
 - 📬 Contact me via email (mmbillah02[at]gmail[dot]com - no spam please!) or social media (links above).
     
-- ⚡ Fun fact: My favorite animal = OWLS because they're amazing! I like to think of them as cat software running on bird hardware 😁.
+- ⚡ Fun fact: My favorite animal = OWLS because they're amazing! I like to think of them as cat software running on bird hardware 🦉.
   
 </td><td valign="top" width="50%">
 
