@@ -19,7 +19,6 @@ I’m a computer science graduate from [Massey University](https://www.massey.ac
 
 
 ## 📒 Personal Notes  
-<table style="border:none"><tr><td valign="top" width="100%">
 
 - 📝 I’m currently training for professional cybersecurity and other certifications.   
   
@@ -29,10 +28,6 @@ I’m a computer science graduate from [Massey University](https://www.massey.ac
     
 - ⚡ Fun fact: My favorite animal = OWLS because they're amazing! I like to think of them as cat software running on bird hardware 🦉.
   
-</td><td valign="top" width="100%">
-
-</td></tr></table>  
-
 <br/>  
 
 <p align="center" width="100%">
