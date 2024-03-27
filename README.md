@@ -11,22 +11,28 @@
 
 
 
-### Welcome to my Github page!  
-I’m a computer science graduate from [Massey University](https://www.massey.ac.nz/) (Palmerston North, New Zealand).  
-  
+### Welcome to my Github Page!  
+
+I am a fresh computer science graduate from Massey University, with experience in a wide range of fields, including networking and cybersecurity, software engineering, machine learning and data analysis, games programming, and web development. 
+
+I am also a keen and curious cybersecurity enthusiast aspiring to break into the ever-evolving fields of networking and cybersecurity. What motivates me most about cybersecurity isn't that it's well paid or a highly respected field, it's the fact that this work helps make a safer, more secure digital world for all!
+
+🛡️ "Safety first, security always" 🔐
 
 <br/>  
 
 
 ## 📒 Personal Notes  
 
-- 📝 I’m currently training for professional cybersecurity and other certifications.   
+- 📈 I’m currently learning about cybersecurity/cloud computing, training for professional cybersecurity certifications, and working as a part-time grader at Massey University.
+
+- ⛱️ In my spare time, I enjoy participating in CTFs 🥇, playing games 🎮, reading 📚, listening to nasheeds 🎵, caring for stray cats 🐈, and spending time in nature 🌴.
+
+- 🗒️ Fun facts: My favorite animal is owls 🦉 because they're super cool. I was born in Japan 🇯🇵, lived in NZ 🇳🇿 for ~19 years, and now I'm in the UK 🇬🇧. I was homeschooled for the most part of my early education 🏫.
+
+- 💬 Ask me about anything that's not too personal! For example, my uni experience, how I feel about homeschooling, my religion, etc.  
   
-- 🌱 I’m currently learning Cyber Security (Python/Bash/CybSecTools), Cloud Computing (Azure, AWS), and Games Programming (C#).  
-  
-- 📬 Contact me via email (mmbillah02[at]gmail[dot]com - no spam please!) or social media (links above).
-    
-- ⚡ Fun fact: My favorite animal = OWLS because they're amazing! I like to think of them as cat software running on bird hardware 🦉.
+- 📬 Contact me via email (mmbillah02[at]gmail[dot]com - no spam please!) or social media (links above).     
   
 <br/>  
 
@@ -53,6 +59,10 @@ I’m a computer science graduate from [Massey University](https://www.massey.ac
 
 <br/>  
 
+
+## 🧪 Projects
+
+WIP
 
 ## 📊 Github Stats  
 <table><tr><td valign="top" width="50%">
