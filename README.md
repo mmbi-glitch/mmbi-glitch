@@ -24,9 +24,9 @@ I am also a keen and curious cybersecurity enthusiast aspiring to break into the
 
 - 📈 I’m currently learning about cybersecurity/cloud computing, training for professional cybersecurity certifications, and working as a part-time grader at Massey University.
 
-- ⛱️ In my spare time, I enjoy participating in CTFs 🥇, playing games 🎮, reading 📚, listening to nasheeds 🎵, caring for stray cats 🐈, and spending time in nature 🌴.
+- ⛱️ In my spare time, I enjoy participating in CTFs, playing games, reading, listening to nasheeds, caring for stray cats, and spending time in nature.
 
-- 🗒️ Fun facts: My favorite animal is owls 🦉 because they're super cool. I was born in Japan 🇯🇵, lived in NZ 🇳🇿 for ~19 years, and now I'm in the UK 🇬🇧. I was homeschooled for the most part of my early education 🏫.
+- 🗒️ Fun facts: My favorite animal is owls because they're super cool. I was born in Japan, lived in NZ for ~19 years, and now I'm in the UK. I was homeschooled for the most part of my early education 🏫.
 
 - 💬 Ask me about anything that's not too personal! For example, my uni experience, how I feel about homeschooling, my religion, etc.  
   
