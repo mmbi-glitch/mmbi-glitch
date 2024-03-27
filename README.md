@@ -62,7 +62,7 @@ I am also a keen and curious cybersecurity enthusiast aspiring to break into the
 
 [![My Skills](https://skillicons.dev/icons?i=linux,kali,arduino,raspberrypi)](https://skillicons.dev)
 
-DISCLAIMER: Includes frameworks/hardware that I'm interested in but have very little experience with them.
+DISCLAIMER: The above list includes a few langs/tools/etc that I'm interested in but technically have little-to-no experience with them.
 
 <br/>  
 
