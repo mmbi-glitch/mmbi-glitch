@@ -48,7 +48,7 @@ I am also a keen and curious cybersecurity enthusiast aspiring to break into the
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,rust,java,haskell,python,js,html,css,php,ts&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,rust,java,haskell,python,js,html,css,php,ts&perline=10)](https://skillicons.dev)
 
 <br/>  
 
