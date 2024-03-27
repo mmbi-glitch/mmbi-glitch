@@ -56,11 +56,11 @@ I am also a keen and curious cybersecurity enthusiast aspiring to break into the
 
 ### Frameworks/Libs
 
-[![My Skills](https://skillicons.dev/icons?i=flask,react,pandas,sass,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,react,sass,tailwind,bootstrap)](https://skillicons.dev)
 
 ### Hardware/OS
 
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,arduino,raspberry-pi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,kali,arduino,pi)](https://skillicons.dev)
 
 <br/>  
 
