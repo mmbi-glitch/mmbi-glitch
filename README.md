@@ -100,4 +100,4 @@ WIP
 <br />
 
 ----
-Created with [Github Profilinator](https://profilinator.rishav.dev/)
+Partially created with [Github Profilinator](https://profilinator.rishav.dev/)
