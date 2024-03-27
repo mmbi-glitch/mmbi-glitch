@@ -54,7 +54,7 @@ I am also a keen and curious cybersecurity enthusiast aspiring to break into the
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=azure,docker,jetbrains,vscode,unity,github,git,nodejs,linux,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,docker,clion,webstorm,pycharm,vscode,unity,github,git,nodejs,linux,mysql)](https://skillicons.dev)
 
 <br/>  
 
