@@ -44,7 +44,7 @@ I am also a keen and curious cybersecurity enthusiast aspiring to break into the
 
 <br/>
 
-## ⚙️ Languages, Tools, Frameworks, ETC
+## ⚙️ Skills
 
 ### Languages
 
