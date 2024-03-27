@@ -8,9 +8,6 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
-
-
-
 ### Welcome to my Github Page!  
 
 I am a fresh computer science graduate from Massey University, with experience in a wide range of fields, including networking and cybersecurity, software engineering, machine learning and data analysis, games programming, and web development. 
@@ -19,10 +16,11 @@ I am also a keen and curious cybersecurity enthusiast aspiring to break into the
 
 🛡️ "Safety first, security always" 🔐
 
-<br/>  
-
+<br />
 
 ## 📒 Personal Notes  
+
+- ♂️ Pronouns: He/Him.
 
 - 📈 I’m currently learning about cybersecurity/cloud computing, training for professional cybersecurity certifications, and working as a part-time grader at Massey University.
 
@@ -42,6 +40,8 @@ I am also a keen and curious cybersecurity enthusiast aspiring to break into the
     Don't leave just yet! Check out my skills, stats, and repos below.
 </p>
 
+<br/>
+
 ## ⚙️ Languages and Tools  
 <div align="center">  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" />  
@@ -59,10 +59,11 @@ I am also a keen and curious cybersecurity enthusiast aspiring to break into the
 
 <br/>  
 
-
 ## 🧪 Projects
 
 WIP
+
+<br/>
 
 ## 📊 Github Stats  
 <table><tr><td valign="top" width="50%">
