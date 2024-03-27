@@ -44,11 +44,17 @@ I am also a keen and curious cybersecurity enthusiast aspiring to break into the
 
 <br/>
 
-## ⚙️ Languages and Tools  
+## ⚙️ Languages, Tools, Frameworks, ETC
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,rust,java,haskell,python,js,html,css,php,ts&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,rust,java,haskell,python,js,html,css,php,ts)](https://skillicons.dev)
+
+<br/>
+
+### Tools
+
+[![My Skills](https://skillicons.dev/icons?i=azure,docker,jetbrains,vscode,unity,github,git,nodejs,linux,mysql)](https://skillicons.dev)
 
 <br/>  
 
