@@ -50,11 +50,17 @@ I am also a keen and curious cybersecurity enthusiast aspiring to break into the
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,go,rust,java,haskell,python,js,html,css,php,ts)](https://skillicons.dev)
 
-<br/>
-
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=azure,docker,clion,webstorm,pycharm,vscode,unity,github,git,nodejs,linux,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,docker,clion,pycharm,vscode,unity,github,git,nodejs,cmake,mysql)](https://skillicons.dev)
+
+### Frameworks/Libs
+
+[![My Skills](https://skillicons.dev/icons?i=flask,react,pandas,sass,tailwind,bootstrap)](https://skillicons.dev)
+
+### Hardware/OS
+
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,arduino,raspberry-pi)](https://skillicons.dev)
 
 <br/>  
 
