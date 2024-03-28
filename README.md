@@ -30,7 +30,7 @@ I am also a keen and curious cybersecurity enthusiast aspiring to break into the
 
 - ⚡ Fun Facts: My favorite animal is owls because they're super cool. I was born in Japan, lived in NZ for ~19 years, and now I'm in the UK. I was homeschooled for the most part of my early education.
 
-- 💬 Ask Me: about anything that's not too personal! For example, my uni experience, how I feel about homeschooling, my religion, etc.  
+- 💬 Ask Me: pretty much anything, as long as it's not too personal! For example, my uni experience, how I feel about homeschooling, my love for programming, etc.  
   
 - 📬 Contact: via email (mmbillah02[at]gmail[dot]com - no spam please!) or social media (links above).     
   
