@@ -70,13 +70,13 @@ DISCLAIMER: The above list includes a few langs/tools/etc that I'm interested in
 
 ### 🖧 Networking & Security
 
-🔐 [Secure Client-Server App](https://github.com/mmbi-glitch/159342_A2)
+#### 🔐 [Secure Client-Server App](https://github.com/mmbi-glitch/159342_A2)
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 
 A secure TCP client-server application that implements a hybrid cryptographic algorithm, combining RSA with Cipher Block Chaining.
 
-📂 [FTP Server App](https://github.com/mmbi-glitch/159342_A1_FTP_Server)
+#### 📂 [FTP Server App](https://github.com/mmbi-glitch/159342_A1_FTP_Server)
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 
@@ -84,19 +84,19 @@ A simple implementation of an active-mode FTP server, uses C++ low-level sockets
 
 ### 🎮 Games Programming & Design
 
-🐍 [Snek Mania](https://github.com/mmbi-glitch/A1_159261)
+#### 🐍 [Snek Mania](https://github.com/mmbi-glitch/A1_159261)
 
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 A simple snake game created using Java's Swing GUI library.
 
-🌳 [Mystic Forest](https://github.com/mmbi-glitch/159261_A2)
+#### 🌳 [Mystic Forest](https://github.com/mmbi-glitch/159261_A2)
 
 [![My Skills](https://skillicons.dev/icons?i=java,gradle)](https://skillicons.dev)
 
 A Super-Mario inspired side-scrolling 2D plaformer game created using the Mini2DX game engine.
 
-⚔ [Dungeon Mayhem](https://github.com/mmbi-glitch/159361_A2)
+#### ⚔ [Dungeon Mayhem](https://github.com/mmbi-glitch/159361_A2)
 
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,dotnet)](https://skillicons.dev)
 
