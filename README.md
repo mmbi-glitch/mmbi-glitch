@@ -102,13 +102,33 @@ A Super-Mario inspired side-scrolling 2D plaformer game created using the Mini2D
 
 A third-person, hack-and-slash, wave-based arena game created with Unity.
 
-### Web Development (WIP)
+### 🌐 Web Development
 
-### Data Analysis & Machine Learning (WIP)
+#### 🕸 [Vanilla Website](https://github.com/mmbi-glitch/158256_A3)
 
-### Embedded/IoT Systems (WIP)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-### Mobile Development (WIP)
+An appealing and functional website built using only vanilla HTML, CSS, and JS - no third party libraries at all. Website content is based on an indie game called Spindle.
+
+#### ✈ [Flight Booking Website](https://github.com/mmbi-glitch/159352_A2)
+
+[![My Skills](https://skillicons.dev/icons?i=python,flask,sqlite,docker,bootstrap)](https://skillicons.dev)
+
+A full-stack flight booking website with extensive backend functions.
+
+### 📊 Data Analysis & Artificial Intelligence
+
+#### 🧩 [8-Puzzle Solver](https://github.com/mmbi-glitch/159302_A1)
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
+
+An AI program that compares different search algorithms (Uniform Cost, A* Manhattan, A* Misplaced Tiles) solving the 8-puzzle problem, also includes visual output.
+
+### 🀆 Embedded/IoT Systems (WIP)
+
+### 📱 Mobile Development (WIP)
+
+### 🖥️ Computer Graphics (WIP)
 
 <br/>
 
