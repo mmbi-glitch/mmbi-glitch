@@ -1,4 +1,4 @@
-# Hey there 👋, I'm Saad Billah!  
+# 👩‍💻 Hey there, I'm Saad Billah!  
   
 
 <a href="https://github.com/mmbi-glitch" target="_blank">
@@ -48,7 +48,7 @@ I am also a keen and curious cybersecurity enthusiast aspiring to break into the
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,rust,java,haskell,python,js,html,css,php,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,go,rust,java,haskell,python,js,html,css,php,ts)](https://skillicons.dev)
 
 ### Tools
 
@@ -56,7 +56,7 @@ I am also a keen and curious cybersecurity enthusiast aspiring to break into the
 
 ### Frameworks/Libs
 
-[![My Skills](https://skillicons.dev/icons?i=flask,react,sass,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,gradle,maven,dotnet,react,sass,tailwind,bootstrap)](https://skillicons.dev)
 
 ### Hardware/OS
 
@@ -68,7 +68,42 @@ DISCLAIMER: The above list includes a few langs/tools/etc that I'm interested in
 
 ## 🧪 Projects
 
-WIP
+### 🖧 Networking & Security
+
+🔐 [Secure Client-Server App](https://github.com/mmbi-glitch/159342_A2)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
+
+A secure TCP client-server application that implements a hybrid cryptographic algorithm, combining RSA with Cipher Block Chaining.
+
+📂 [FTP Server App](https://github.com/mmbi-glitch/159342_A1_FTP_Server)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
+
+A simple implementation of an active-mode FTP server, uses C++ low-level sockets library.
+
+### 🎮 Games Programming & Design
+
+🐍 [Snek Mania](https://github.com/mmbi-glitch/A1_159261)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+
+A simple snake game created using Java's Swing GUI library.
+
+🌳 [Mystic Forest](https://github.com/mmbi-glitch/159261_A2)
+[![My Skills](https://skillicons.dev/icons?i=java,gradle)](https://skillicons.dev)
+
+A Super-Mario inspired side-scrolling 2D plaformer game created using the Mini2DX game engine.
+
+⚔ [Dungeon Mayhem](https://github.com/mmbi-glitch/159361_A2)
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,dotnet)](https://skillicons.dev)
+
+A third-person, hack-and-slash, wave-based arena game created with Unity.
+
+### Web Development (WIP)
+
+### Data Analysis & Machine Learning (WIP)
+
+### Embedded/IoT Systems (WIP)
+
+### Mobile Development (WIP)
 
 <br/>
 
