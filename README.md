@@ -118,7 +118,7 @@ A full-stack flight booking website with extensive backend functions.
 
 #### 👨‍💻 [Portfolio Website](https://github.com/mmbi-glitch/mmbi-glitch.github.io)
 
-[![My Skills](https://skillicons.dev/icons?i=github,bootstrap)](https://skillicons.dev)<img style="margin-left: 8.25px" src="https://github.com/jekyll/brand/blob/master/jekyll-test-tube.svg" width="48px" height="48px">
+[![My Skills](https://skillicons.dev/icons?i=github,bootstrap)](https://skillicons.dev)<img style="padding-left: 8.25px;" src="https://github.com/jekyll/brand/blob/master/jekyll-test-tube.svg" width="48px" height="48px">
 
 My portfolio website, built with Jekyll. Currently has no theme, because I'm planning on using a custom theme 🎨.
 
