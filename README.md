@@ -116,11 +116,11 @@ An appealing and functional website built using only vanilla HTML, CSS, and JS -
 
 A full-stack flight booking website with extensive backend functions.
 
-#### 👨‍💻 [Portfolio Website](https://github.com/mmbi-glitch/mmbi-glitch.github.io)
+#### 🎨 [Portfolio Website](https://github.com/mmbi-glitch/mmbi-glitch.github.io)
 
 [![My Skills](https://skillicons.dev/icons?i=github,bootstrap)](https://skillicons.dev)&ensp;<img src="https://github.com/jekyll/brand/blob/master/jekyll-test-tube.svg" width="48px" height="48px" style="padding-left: 8.25px;" />
 
-My portfolio website, built with Jekyll. Currently has no theme, because I'm planning on using a custom theme 🎨.
+My portfolio website, built with Jekyll. I'm planning on using a custom theme.
 
 ### 📊 Data Analysis & Artificial Intelligence
 
