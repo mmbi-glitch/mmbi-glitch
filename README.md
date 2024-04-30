@@ -134,8 +134,11 @@ A full-stack flight booking website with extensive backend functions.
 
 My portfolio website, built with Jekyll. I'm planning on using a custom theme.
 </details>
+<details>
+<summary>
 
-### 📊 Data Analysis & Artificial Intelligence
+  ### 📊 Data Analysis & Artificial Intelligence
+</summary>  
 
 #### 🧩 [8-Puzzle Solver](https://github.com/mmbi-glitch/159302_A1)
 
@@ -143,11 +146,28 @@ My portfolio website, built with Jekyll. I'm planning on using a custom theme.
 
 An AI program that compares different search algorithms (Uniform Cost, A* Manhattan, A* Misplaced Tiles) solving the 8-puzzle problem, also includes visual output.
 
-### 🀆 Embedded/IoT Systems (WIP)
+</details>
 
-### 📱 Mobile Development (WIP)
+<details>
+  <summary>
 
-### 🖥️ Computer Graphics (WIP)
+### 🀆 Embedded/IoT Systems (WIP)    
+  </summary>
+</details>
+
+<details>
+  <summary>
+
+### 📱 Mobile Development (WIP)    
+  </summary>
+</details>
+
+<details>
+  <summary>
+
+### 🖥️ Computer Graphics (WIP)    
+  </summary>
+</details>
 
 <br/>
 
