@@ -116,6 +116,12 @@ An appealing and functional website built using only vanilla HTML, CSS, and JS -
 
 A full-stack flight booking website with extensive backend functions.
 
+#### 👨‍💻 [Portfolio Website](https://github.com/mmbi-glitch/mmbi-glitch.github.io)
+
+[![My Skills](https://skillicons.dev/icons?i=github,jekyll,bootstrap)](https://skillicons.dev)
+
+My portfolio website, built with Jekyll. Currently has no theme, because I'm planning on using a custom theme 🎨.
+
 ### 📊 Data Analysis & Artificial Intelligence
 
 #### 🧩 [8-Puzzle Solver](https://github.com/mmbi-glitch/159302_A1)
