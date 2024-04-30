@@ -68,9 +68,13 @@ DISCLAIMER: The above list includes a few langs/tools/etc that I'm interested in
 
 ## 🧪 Projects
 
-### 🖧 Networking & Security
+<details>
+<summary>  
+  
+  ### 🖧 Networking & Security
+</summary>
 
-#### 🔐 [Secure Client-Server App](https://github.com/mmbi-glitch/159342_A2)
+  #### 🔐 [Secure Client-Server App](https://github.com/mmbi-glitch/159342_A2)
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 
@@ -81,6 +85,8 @@ A secure TCP client-server application that implements a hybrid cryptographic al
 [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 
 A simple implementation of an active-mode FTP server, uses C++ low-level sockets library.
+
+</details>
 
 ### 🎮 Games Programming & Design
 
