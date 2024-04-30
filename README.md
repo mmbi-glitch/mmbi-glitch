@@ -88,7 +88,12 @@ A simple implementation of an active-mode FTP server, uses C++ low-level sockets
 
 </details>
 
-### 🎮 Games Programming & Design
+<details>
+
+<summary>
+
+  ### 🎮 Games Programming & Design  
+</summary>
 
 #### 🐍 [Snek Mania](https://github.com/mmbi-glitch/A1_159261)
 
@@ -108,7 +113,14 @@ A Super-Mario inspired side-scrolling 2D plaformer game created using the Mini2D
 
 A third-person, hack-and-slash, wave-based arena game created with Unity.
 
-### 🌐 Web Development
+</details>
+
+<details>
+
+<summary>
+
+### 🌐 Web Development  
+</summary>
 
 #### 🕸 [Vanilla Website](https://github.com/mmbi-glitch/158256_A3)
 
@@ -127,6 +139,8 @@ A full-stack flight booking website with extensive backend functions.
 [![My Skills](https://skillicons.dev/icons?i=github,bootstrap)](https://skillicons.dev)&ensp;<img src="https://github.com/jekyll/brand/blob/master/jekyll-test-tube.svg" width="48px" height="48px" style="padding-left: 8.25px;" />
 
 My portfolio website, built with Jekyll. I'm planning on using a custom theme.
+  
+</details>
 
 ### 📊 Data Analysis & Artificial Intelligence
 
