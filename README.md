@@ -9,6 +9,8 @@
 </a>  
 
 <br/>
+
+## 👨‍🎓 Bio
   
 ### Welcome to my Github Page!  
 
