@@ -36,14 +36,6 @@ I am also a keen and curious cybersecurity enthusiast aspiring to break into the
   
 <br/>  
 
-<p align="center" width="100%">
-    <img width="40%" src="https://github.com/mmbi-glitch/mmbi-glitch/blob/main/owl.gif">
-  <br/>
-    Heyyy, don't leave just yet! Check out my skills, projects, and stats below.
-</p>
-
-<br/>
-
 ## ⚙️ Skills
 
 ### Languages
