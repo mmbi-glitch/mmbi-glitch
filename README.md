@@ -85,11 +85,8 @@ A secure TCP client-server application that implements a hybrid cryptographic al
 [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 
 A simple implementation of an active-mode FTP server, uses C++ low-level sockets library.
-
 </details>
-
 <details>
-
 <summary>
 
   ### 🎮 Games Programming & Design  
@@ -112,11 +109,8 @@ A Super-Mario inspired side-scrolling 2D plaformer game created using the Mini2D
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,dotnet)](https://skillicons.dev)
 
 A third-person, hack-and-slash, wave-based arena game created with Unity.
-
 </details>
-
 <details>
-
 <summary>
 
 ### 🌐 Web Development  
@@ -139,7 +133,6 @@ A full-stack flight booking website with extensive backend functions.
 [![My Skills](https://skillicons.dev/icons?i=github,bootstrap)](https://skillicons.dev)&ensp;<img src="https://github.com/jekyll/brand/blob/master/jekyll-test-tube.svg" width="48px" height="48px" style="padding-left: 8.25px;" />
 
 My portfolio website, built with Jekyll. I'm planning on using a custom theme.
-  
 </details>
 
 ### 📊 Data Analysis & Artificial Intelligence
