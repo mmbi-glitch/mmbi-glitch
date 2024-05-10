@@ -25,7 +25,7 @@ I am also a keen and curious cybersecurity enthusiast aspiring to break into the
 
 ## 📒 Personal Notes  
 
-- ♂️ Pronouns: He/Him.
+- 🙎‍♂️ Pronouns: He/Him.
 
 - 📈 Status: I’m currently learning about cybersecurity/cloud computing, training for professional cybersecurity certifications, and working as a part-time grader at Massey University.
 
